@@ -2,9 +2,15 @@
 
 This is my boilerplate for new Express projects.
 
-## Initializing your project
+## Install
 
-Configure the repository
+```
+yarn
+```
+
+## Customizing the project
+
+Configure the repository and eslint rules from scratch.
 
 ```
 yarn cook
